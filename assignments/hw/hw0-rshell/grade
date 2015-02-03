@@ -1,14 +1,14 @@
-45 / 100
+75 / 100
 
 -5: No test with greater than 10 parameters
 -15: No working examples of commands connected with each operator
--5: No working example of a long chain of commands
--10: No working example of multiple types of operators mixed in one compound command
--15: No working example of operator spacing restrictions
 -5: No example of exit with parameters
 -5: No example of exit as a parameter to something else
 -5: No example of exit in a chain of commands
 -5: No example of comment on a line by itself
 -5: No example of a comment touching something else
 +10: prompt present
+
+regraded in office hours
+
 
