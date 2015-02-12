@@ -1,4 +1,16 @@
- 92   / 100  
+92 / 100  
+
+-3: -R flag,  when used with -a and -l, doesn't print the name of the folder that is listed at each level
+
+-5: missing parameter combination -lR
+
+cppcheck output:
+Checking src/ls.cpp...
+1/2 files checked 64% done
+Checking src/rshell.cpp...
+[src/rshell.cpp:255]: (error) Memory leak: cmd
+2/2 files checked 100% done
+
 
 
 
